@@ -1,1 +1,2 @@
-# connect-med
+# ConnectMedicine
+# The future of Medical Communication
